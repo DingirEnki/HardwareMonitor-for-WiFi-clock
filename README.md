@@ -1,1 +1,1 @@
-# HardwareMonitor-for-WiFi-clock
+# HardwareMonitor for WiFi clock beta
